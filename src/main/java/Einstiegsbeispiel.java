@@ -1,7 +1,7 @@
 
 public class Einstiegsbeispiel {
 
-    public static int getInnerProdukt (int [] a, int [] b){
+    public int getInnerProdukt (int [] a, int [] b){
         int ergebnis= 0;
 
         for (int i = 0; i< a.length; i++){
